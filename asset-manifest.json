@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jeonapp/static/css/main.e6c13ad2.css",
+    "main.js": "/jeonapp/static/js/main.b913c012.js",
+    "static/js/453.ed3810f9.chunk.js": "/jeonapp/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/jeonapp/index.html",
+    "main.e6c13ad2.css.map": "/jeonapp/static/css/main.e6c13ad2.css.map",
+    "main.b913c012.js.map": "/jeonapp/static/js/main.b913c012.js.map",
+    "453.ed3810f9.chunk.js.map": "/jeonapp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b913c012.js"
+  ]
+}
